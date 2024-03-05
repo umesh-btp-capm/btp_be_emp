@@ -1,0 +1,14 @@
+{
+    "employee-db": {                                    //key name in mta file
+        "object_owner": {
+            "container_roles": [
+                "BTP_DB_EMPLOYEE::write#"               //name in writeG.hdbrole
+            ] 
+        },
+        "application_user": {
+            "container_roles": [
+                "BTP_DB_EMPLOYEE::write"                //name in write.hdbrole
+            ] 
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "BTP_DEMOPRJ_CENTRALEMPLOYEES": {                  
+        "target": {
+            "object": "BTP_V.V_EMPLOYEES",         //views table name
+            "schema": "BTP_DB_EMPLOYEE"             //views table schema name
+        }
+    }
+}
